@@ -846,6 +846,8 @@ WeaponEnergyGunMultiphase: WeaponMultiphaseGun
 # Санрайз насрал опять
 MagazineBoxHeavyRifle: null
 SunriseMagazineRifle: null
+CrateServicePrinterDoc: null
+CrateServicePrinterDocRestock: null
 
 # Fire added start
 PosterDyshi: PosterBreath
@@ -2223,5 +2225,13 @@ HappyHonkCluwne: null
 FoodMealHappyHonkClown: null
 FoodMealHappyHonkBigBite: null
 VendingMachineHappyHonk: null
+
+# Плитка
+ScpFloorTileItemMiniSteel: ScpFloorTileItemSteelMini
+ScpFloorTileItemMiniSteelDark: ScpFloorTileItemDarkMini
+ScpFloorTileItemMiniSteelWhite: ScpFloorTileItemWhiteMini
+ScpFloorTileItemMonoSteel: ScpFloorTileItemSteelMono
+ScpFloorTileItemMonoSteelWhite: ScpFloorTileItemWhiteMono
+ScpFloorTileItemMonoSteelDark: ScpFloorTileItemDarkMono
 
 # Fire added end
